@@ -6,7 +6,7 @@
  * Copyright (c) 2008-2013 Strumsoft. All rights reserved.
  * Strumsoft company confidential. This source code is an unpublished work.
  */
-package com.verizon.test;
+package com.bartonsoft.test;
 
 import java.security.spec.AlgorithmParameterSpec;
 

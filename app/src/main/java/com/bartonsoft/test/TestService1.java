@@ -1,10 +1,10 @@
-package com.verizon.test;
+package com.bartonsoft.test;
 
 import android.annotation.TargetApi;
 import android.content.Intent;
 import android.os.Build.VERSION_CODES;
 
-import com.strumsoft.android.commons.logger.Logger;
+import com.bartonsoft.logger.Logger;
 
 @TargetApi(VERSION_CODES.O)
 public class TestService1 extends TestService {

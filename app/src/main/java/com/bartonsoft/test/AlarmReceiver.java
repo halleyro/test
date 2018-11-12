@@ -1,10 +1,10 @@
-package com.verizon.test;
+package com.bartonsoft.test;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-import com.strumsoft.android.commons.logger.Logger;
+import com.bartonsoft.logger.Logger;
 
 public class AlarmReceiver extends BroadcastReceiver {
 	@Override

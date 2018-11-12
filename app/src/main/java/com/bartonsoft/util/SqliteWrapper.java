@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.verizon.mms.util;
+package com.bartonsoft.util;
 
 import static java.util.regex.Pattern.CASE_INSENSITIVE;
 
@@ -44,7 +44,7 @@ import android.os.Build;
 import android.os.RemoteException;
 import android.os.SystemClock;
 
-import com.strumsoft.android.commons.logger.Logger;
+import com.bartonsoft.logger.Logger;
 
 public final class SqliteWrapper {
     private static HashSet<String> queryMap;

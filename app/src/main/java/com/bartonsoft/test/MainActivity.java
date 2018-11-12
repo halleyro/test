@@ -1,4 +1,4 @@
-package com.verizon.test;
+package com.bartonsoft.test;
 
 import android.annotation.TargetApi;
 import android.app.Notification;
@@ -16,7 +16,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.google.android.gms.common.api.GoogleApiClient;
-import com.strumsoft.android.commons.logger.Logger;
+import com.bartonsoft.logger.Logger;
 
 //public class MainActivity extends AppCompatActivity implements ConnectionCallbacks, OnConnectionFailedListener {
 public class MainActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.verizon.test;
+package com.bartonsoft.test;
 
 import android.app.Notification;
 import android.app.Service;
@@ -9,7 +9,7 @@ import android.os.IBinder;
 import android.support.annotation.Nullable;
 import android.support.annotation.RequiresApi;
 
-import com.strumsoft.android.commons.logger.Logger;
+import com.bartonsoft.logger.Logger;
 
 public class TestService extends Service {
 

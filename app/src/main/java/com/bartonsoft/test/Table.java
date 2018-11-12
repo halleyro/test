@@ -1,11 +1,11 @@
-package com.verizon.test;
+package com.bartonsoft.test;
 
 import java.util.Arrays;
 
 import android.database.sqlite.SQLiteDatabase;
 
-import com.strumsoft.android.commons.logger.Logger;
-import com.verizon.mms.util.SqliteWrapper;
+import com.bartonsoft.logger.Logger;
+import com.bartonsoft.util.SqliteWrapper;
 
 /**
  * Abstract superclass of all tables.

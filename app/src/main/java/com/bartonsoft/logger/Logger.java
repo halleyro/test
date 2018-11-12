@@ -1,4 +1,4 @@
-package com.strumsoft.android.commons.logger;
+package com.bartonsoft.logger;
 
 import java.util.Arrays;
 import java.util.Formatter;

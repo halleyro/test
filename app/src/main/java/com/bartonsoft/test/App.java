@@ -1,4 +1,4 @@
-package com.verizon.test;
+package com.bartonsoft.test;
 
 import android.app.Application;
 

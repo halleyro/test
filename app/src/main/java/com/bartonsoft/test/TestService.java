@@ -22,8 +22,8 @@ public class TestService extends Service {
 			final Notification notif = new Notification.Builder(this, MainActivity.channelId)
 				.setSmallIcon(R.mipmap.ic_launcher)
 				.setLargeIcon(BitmapFactory.decodeResource(getResources(), R.mipmap.ic_launcher))
-				.setContentTitle("Message+")
-				.setContentText("Syncing messages...")
+				.setContentTitle("Test")
+				.setContentText("Testing...")
 				.build();
 			startForeground(1, notif);
 		}

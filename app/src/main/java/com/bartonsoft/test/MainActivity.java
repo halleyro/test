@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
 					Logger.debug(getClass(), "sleeping");
 					try { sleep(10000); } catch (Exception e) {}
 				}
-				startService(TestService1.class);
+				startService(TestService.class);
 				try {
 					sleep(5000);
 				}
